@@ -1,7 +1,7 @@
 # Jogo da cobrinha
  Criação do jogo da cobrinha com HTML e JavaScript
  
- [Jogue agora!!](https://gracibrea.github.io/jogo_cobrinha_javascript/)
+### [Jogue agora!!](https://gracibrea.github.io/jogo_cobrinha_javascript/)
  
  Mova a cobrinha com as setas do teclado para comer a fruta.
  
